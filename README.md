@@ -10,4 +10,6 @@
 
 
 ## Run 
-Pytest Test_Eribank.py
+```bash
+pytest Test_Eribank.py
+```
